@@ -24,7 +24,7 @@ Geographer working with **remote sensing, GIS and data science**, with a focus o
 | Project | What it shows |
 |---|---|
 | *Angola census 2014 vs 2024* (soon) | Extracting tables from official PDFs, cleaning, provincial growth |
-| [Study exercises](https://github.com/joaorodrigues-geo/estudos-ds) | Python and R exercises, including a Tesla and GameStop stock and revenue analysis |
+| [Data science studies](https://github.com/joaorodrigues-geo/estudos-ds) | Tesla and GameStop stock and revenue analysis (yfinance, web scraping, Plotly) |
 
 ## Own projects · Projetos próprios
 
